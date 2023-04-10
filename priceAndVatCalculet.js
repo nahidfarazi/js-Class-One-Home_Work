@@ -13,3 +13,4 @@ const calciulateVat = itemPrice * vatFolt
 const totalPrice = calciulateVat +itemPrice 
 
 console.log(totalPrice);
+

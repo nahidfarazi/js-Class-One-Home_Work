@@ -1,5 +1,5 @@
 const a = '20.333'
-const b = '30.121'
+const b = '30.12144'
 
 const aFloat = parseFloat(a);
 const bFloat = parseFloat(b);
